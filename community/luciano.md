@@ -51,6 +51,6 @@ Ambos os dashes estão em constantes evoluções e desenvolvimento. Vai lá dar 
 Entre em contato em uma das redes sociais abaixo
 
 [![Mongo](https://img.shields.io/badge/behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/dovallebarbosa)
-[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/luciano-do-valle-barbosa-33799b263/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-do-valle-barbosa-33799b263/)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ldovalle/)
 [![Spotify](https://img.shields.io/badge/spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/22rxsto4zfjdqqyfdhx27v3jq)
